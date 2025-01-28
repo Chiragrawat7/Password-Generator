@@ -6,6 +6,14 @@ The **Password Generator Website** is a secure and customizable tool designed to
 
 ---
 
+## Screenshots
+
+Here is a preview of the Password Generator website:
+
+![Password Generator Website](./Screenshot%202025-01-28%20104424.png) 
+
+---
+
 ## Features
 
 - **Customizable Length**: Define the length of the password based on your requirements.
@@ -34,13 +42,6 @@ The **Password Generator Website** is a secure and customizable tool designed to
 3. Click the **Generate Password** button.
 4. Copy the generated password and use it wherever needed!
 
----
-
-## Screenshots
-
-Here is a preview of the Password Generator website:
-
-![Password Generator Website](./Screenshot%202025-01-28%20103227.png) *(Replace with actual image URL or file)*
 
 ---
 
